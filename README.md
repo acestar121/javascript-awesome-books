@@ -52,14 +52,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://mohamedhnoor.github.io/Awesome-Books/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -73,52 +65,11 @@ In order to run this project you need:
 > Computer with internet and
 > Visual Studio Code
 
-### Setup
-
-Clone this repository to your desired folder:
-
-1. Clone this repository or download the Zip folder:
-
-**`git clone https://github.com/MohamedHNoor/Awesome-Books.git`**
-
-2. Navigate to the location of the folder in your machine:
-
-**`you@your-Pc-name:~$ cd <folder>`**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-👤 **Mohamed H Noor**
-
-- GitHub: [@githubhandle](https://github.com/MohamedHNoor)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamedhnoor/)
-
-👤 **Christian Ani**
-
-- GitHub: [@githubhandle](https://github.com/iamchristianani)
-- Twitter: [@kriznode](https://twitter.com/kriznode)
-- LinkedIn: [Christian Ani](https://www.linkedin.com/in/anikriz/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Create a complete website with navigation.]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/MohamedHNoor/Awesome-Books/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
